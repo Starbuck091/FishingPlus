@@ -13,6 +13,6 @@ New features:
 
 - Depletion of ice fishing holes. Now the fish in the hole is not infinite, and its quantity depends on meteorological conditions. From time to time, you will have to give the old fishing spots a few days to rest in order for the fish to return there again.
 
-- Tying fish to baits and lures. Now every fish has a penchant for a certain type of bait/bait. For example, goldeneye will not peck at meat baits, and predatory fish will not peck at corn.
+- Tying fish to baits and lures. Now every fish has a penchant for a certain type of bait/bait. For example, goldeye will not peck at meat baits, and predatory fish will not peck at corn.
 
 - Expanding the range of baits. It is now possible to use some food items as bait for fishing, such as raw meat, animal fat, and some canned goods.
