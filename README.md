@@ -3,7 +3,7 @@ by Starbuck097
 
 FishingPlus is a mod for the game The Long Dark, designed to improve the existing fishing system in the game. 
 
-New features:
+Features:
 
 - You can no longer fish with an empty hook, as it used to be. Imho, this is unrealistic. Now, in order for you to catch fish, you definitely need bait or bait, or both.
 
