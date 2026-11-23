@@ -1,5 +1,7 @@
-FishingPlus mod for The Long Dark
-by Starbuck097
+
+
+**FishingPlus mod for The Long Dark**
+_by Starbuck097_
 
 FishingPlus is a mod for the game The Long Dark, designed to improve the existing fishing system in the game. 
 
