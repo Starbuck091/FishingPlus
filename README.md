@@ -1,6 +1,6 @@
 <img width="3840" height="2160" alt="modtemplate" src="https://github.com/user-attachments/assets/260db51e-6337-493c-a0dc-e41251753dca" />
 
-### **FishingPlus mod for The Long Dark**
+## **FishingPlus mod for The Long Dark**
 _by Starbuck097_
 
 FishingPlus is a mod for the game The Long Dark, designed to improve the existing fishing system in the game. 
